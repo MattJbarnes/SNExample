@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_web_service">
+    <sys_web_service action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <function_name>execute</function_name>
+        <name>ObtainDataLakeX</name>
+        <scoped_name>x_snc_mattexampl_0_ObtainDataLakeX</scoped_name>
+        <script><![CDATA[(function scriptedWebServiceOperation(request, response) {
+
+	// Add your code here
+
+})(request, response);]]></script>
+        <short_description/>
+        <sys_class_name>sys_web_service</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-16 21:54:50</sys_created_on>
+        <sys_id>15e6129947f66a105bc51525f16d43dd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ObtainDataLakeX</sys_name>
+        <sys_package display_value="MattExample" source="x_snc_mattexampl_0">d743525547f66a105bc51525f16d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MattExample">d743525547f66a105bc51525f16d434a</sys_scope>
+        <sys_update_name>sys_web_service_15e6129947f66a105bc51525f16d43dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-16 21:55:00</sys_updated_on>
+        <wsdl>https://empmbarnes1.service-now.com/x_snc_mattexampl_0_ObtainDataLakeX.do?WSDL</wsdl>
+        <wsdl_compliance>false</wsdl_compliance>
+    </sys_web_service>
+</record_update>
