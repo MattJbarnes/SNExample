@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fdc51a1947f66a105bc51525f16d437c" extends="task" label="ExportTask" max_length="40" name="x_snc_mattexampl_0_exporttask" type="collection"/>
+</database>
